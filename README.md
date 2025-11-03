@@ -10,9 +10,9 @@ Skilled in SQL, Python (pandas, numpy), Power BI, and Data Visualization, I spec
 💼 Open to freelance & full-time opportunities in data analytics.
 📫 Contact: mohamedshauky651@gmail.com
 
-🔗 Portfolio Website: mohamedshauky.my.canva.site
+🔗 Portfolio Website:[Portfolio](https://mohamedshauky.my.canva.site/)
 
-💻 GitHub: github.com/Msh20240874
+💻 GitHub:[github.com](https://github.com/Msh20240874/)
 
 
 ## 🌐 Socials:
