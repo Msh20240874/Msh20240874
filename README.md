@@ -1,5 +1,18 @@
-# 💫 About Me:
-Data Analyst • SQL | Python (pandas, numpy) | Power BI | Data Viz<br><br>🔭 I build dashboards, clean & model data, and deliver insights for business decisions.<br>🌱 Currently improving skills in time-series analysis and CI for data projects.<br>💼 Open to freelance & full-time data roles.<br>📫 Contact: mahamedshauky651@gmail.com<br>🔗 Portfolio & code: https://github.com/Msh20240874
+💫 About Me:
+
+Mohamed Shauky — Data Analyst
+
+📊 Turning raw data into powerful business insights.
+Skilled in SQL, Python (pandas, numpy), Power BI, and Data Visualization, I specialize in building dashboards, cleaning data, and creating models that drive real decisions.
+
+💡 I enjoy solving data problems, exploring trends, and transforming numbers into stories that matter.
+🌱 Currently deepening my knowledge in time-series analysis and CI for data projects.
+💼 Open to freelance & full-time opportunities in data analytics.
+📫 Contact: mohamedshauky651@gmail.com
+
+🔗 Portfolio Website: mohamedshauky.my.canva.site
+
+💻 GitHub: github.com/Msh20240874
 
 
 ## 🌐 Socials:
